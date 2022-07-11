@@ -1,0 +1,207 @@
+<section class="content-header">
+
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1 class="m-0"><?php echo $title; ?></h1>
+          </div><!-- /.col -->
+        </div><!-- /.row -->
+      </div><!-- /.container-fluid -->
+    <!-- /.content-header -->
+  </section>
+  <section class="content">
+
+  <div class="row">
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-info">
+              <div class="inner">
+                <h3>150</h3>
+
+                <p>ยอดเดือน</p>
+              </div>
+              <div class="icon">
+              <i class="fas fa-money-check"></i>
+                <ion-icon name="card-outline"></ion-icon>
+              </div>
+              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+          <!-- ./col -->
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-success">
+              <div class="inner">
+                <h3>53<sup style="font-size: 20px">%</sup></h3>
+
+                <p>พนักงานราชการ</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-stats-bars"></i>
+              </div>
+              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+          <!-- ./col -->
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-warning">
+              <div class="inner">
+                <h3>44</h3>
+
+                <p>User Registrations</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-person-add"></i>
+              </div>
+              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+          <!-- ./col -->
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-danger">
+              <div class="inner">
+                <h3>65</h3>
+
+                <p>Unique Visitors</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-pie-graph"></i>
+              </div>
+              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+          <!-- ./col -->
+        </div>
+    <div class="card">
+      <div class="card-header card-navy card-outline">
+       
+        <div align="right"> 
+        <a href="#">      
+        <button type="button" class="btn btn-success btn-xs" data-toggle="modal" data-target="#exampleModal"><i class="fa fa-user-plus"></i> เพิ่มข้อมูล สมาชิก</button></a>
+          
+        </div>
+      </div>
+      <br>
+      <div class="card-body p-1">
+        <div class="row">
+          <div class="col-md-1">
+            
+          </div>
+          <div class="col-md-12">
+            <table id="example1" class="table table-bordered table-striped dataTable" role="grid" aria-describedby="example1_info">
+              <thead>
+                <tr role="row" class="info">
+                  <th  tabindex="0" rowspan="1" colspan="1" style="width: 7%;">ลำดับ</th>
+                  <th  tabindex="0" rowspan="1" colspan="1" style="width: 15%;">เดือน</th>
+                  <th  tabindex="0" rowspan="1" colspan="1" style="width: 15%;">วันที่โอนเงินเข้าบัญชี</th>
+                  <th  tabindex="0" rowspan="1" colspan="1" style="width: 15%;">จำนวนเงิน</th>
+                  <th  tabindex="0" rowspan="1" colspan="1" style="width: 15%;">หมายเหตุ</th>
+               
+                   <th  tabindex="0" rowspan="1" colspan="1" style="width: 10%;">-</th>
+                  
+                </tr>
+              </thead>
+              <tbody>
+
+
+                    <tr>
+                   <td>
+                    1.
+                  </td>
+                  <td>
+                   มกราคม
+                  </td>
+                  <td>
+                    26/01/2564
+                  </td>
+                  <td>
+                   8,000
+                  </td>
+                   <td>
+                  -
+                  </td>
+                
+                  
+                  <td>
+
+                    <a class="btn btn-info btn-xs" href="https://www.youtube.com/channel/UCYVRAQnVG-Pbx4Av7xhRejA/featured" target="_blank">
+                      <i class="fas fa-eye">
+                      </i>
+                   
+                    </a>
+
+             
+                    <a class="btn btn-warning btn-xs" href="https://www.youtube.com/channel/UCYVRAQnVG-Pbx4Av7xhRejA/featured" target="_blank">
+                      <i class="fas fa-pencil-alt">
+                      </i>
+                    </a>
+
+                    <a class="btn btn-danger btn-xs" href="https://www.youtube.com/channel/UCYVRAQnVG-Pbx4Av7xhRejA/featured" target="_blank">
+                      <i class="fas fa-trash-alt">
+                      </i> 
+                    </a>
+                  </td>
+                  
+                  
+                </tr>
+                    <tr>
+                    <td>
+                    2.
+                  </td>
+                  <td>
+                    มกราคม
+                  </td>
+                  <td>
+                    อ่อนมณี
+                  </td>
+                  <td>
+                    admin@gmail.com
+                  </td>
+                   <td>
+                   0991013326
+                  </td>
+                 
+                  <td>
+
+                    <a class="btn btn-info btn-xs" href="https://www.youtube.com/channel/UCYVRAQnVG-Pbx4Av7xhRejA/featured" target="_blank">
+                      <i class="fas fa-eye">
+                      </i>
+                   
+                    </a>
+
+             
+                    <a class="btn btn-warning btn-xs" href="https://www.youtube.com/channel/UCYVRAQnVG-Pbx4Av7xhRejA/featured" target="_blank">
+                      <i class="fas fa-pencil-alt">
+                      </i>
+                    </a>
+
+                    <a class="btn btn-danger btn-xs" href="https://www.youtube.com/channel/UCYVRAQnVG-Pbx4Av7xhRejA/featured" target="_blank">
+                      <i class="fas fa-trash-alt">
+                      </i> 
+                    </a>
+                  </td>
+                  
+                  
+                </tr>
+               
+                
+              </tbody>
+            </table>
+            
+          </div>
+          <div class="col-md-1" >
+            
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    
+    
+  </div>
+  <!-- /.col -->
+</div>
+</section>
